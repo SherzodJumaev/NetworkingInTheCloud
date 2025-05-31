@@ -1,0 +1,182 @@
+name: dockercompose16604976865686475946
+services:
+  web-frontend:
+    container_name: wholesale_clothing_crm_web
+    depends_on:
+      wholesale_clothing_crm:
+        condition: service_started
+        required: true
+    image: nginx:alpine
+    networks:
+      networking_in_the_cloud: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: bind
+        source: E:\PDP-NET\src\Web
+        target: /usr/share/nginx/html
+        bind:
+          create_host_path: true
+      - type: bind
+        source: E:\PDP-NET\Networking\nginx\nginx.conf
+        target: /etc/nginx/nginx.conf
+        bind:
+          create_host_path: true
+  wholesale_clothing_crm:
+    build:
+      context: E:\PDP-NET\Networking
+      dockerfile: src/Wholesale_Clothing_CRM/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+        LAUNCHING_FROM_VS: "true"
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: Wholesale_Clothing_CRM
+      target: base
+    container_name: wholesale_clothing_crm
+    depends_on:
+      wholesale_clothing_crm_db:
+        condition: service_healthy
+        required: true
+    entrypoint:
+      - dotnet
+      - --roll-forward
+      - Major
+      - /VSTools/DistrolessHelper/DistrolessHelper.dll
+      - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ConnectionStrings__DefaultConnection: Server=wholesale_clothing_crm_db,1433;Database=PatientRecoveryDB_Patients;User Id=sa;Password=Y0urP@ssw0rd!23;Trust Server Certificate=True;
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: /.nuget/fallbackpackages
+    image: wholesaleclothingcrm:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/bin/Debug/net9.0/Wholesale_Clothing_CRM.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      networking_in_the_cloud: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "7180"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "7181"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    restart: always
+    tty: true
+    volumes:
+      - type: bind
+        source: C:\Users\user\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\user\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\user\AppData\Roaming\ASP.NET\Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\user\AppData\Roaming\ASP.NET\Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: E:\PDP-NET\Networking\src\Wholesale_Clothing_CRM
+        target: /app
+        bind:
+          create_host_path: true
+      - type: bind
+        source: E:\PDP-NET\Networking
+        target: /src
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\user\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\user\.nuget\packages
+        target: /.nuget/packages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages
+        target: /.nuget/fallbackpackages
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net6.0
+        target: /VSTools
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind:
+          create_host_path: true
+  wholesale_clothing_crm_db:
+    container_name: wholesale_clothing_crm_db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Express
+      SA_PASSWORD: Y0urP@ssw0rd!23
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - timeout 1 bash -c '</dev/tcp/localhost/1433' || exit 1
+      timeout: 5s
+      interval: 10s
+      retries: 10
+      start_period: 30s
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      networking_in_the_cloud: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1477"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: sqlserver_data
+        target: /var/opt/mssql
+        volume: {}
+networks:
+  networking_in_the_cloud:
+    name: dockercompose16604976865686475946_networking_in_the_cloud
+    driver: bridge
+volumes:
+  sqlserver_data:
+    name: dockercompose16604976865686475946_sqlserver_data
