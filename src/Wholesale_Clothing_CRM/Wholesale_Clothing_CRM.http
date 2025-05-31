@@ -1,0 +1,6 @@
+@Wholesale_Clothing_CRM_HostAddress = http://localhost:5033
+
+GET {{Wholesale_Clothing_CRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

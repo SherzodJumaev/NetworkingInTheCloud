@@ -1,0 +1,1001 @@
+Name,Category,Price,StockQuantity,SalesCount,Revenue
+Unisex Jackets,Sportswear,83.46,44,27,2253.42
+Unisex Shirts,Formal Wear,52.01,62,5,260.05
+Women's Shirts,Casual Wear,90.72,26,2,181.44
+Men's Sweaters,Casual Wear,73.19,78,16,1171.04
+Women's Jeans,Formal Wear,45.52,89,27,1229.04
+Unisex Blazers,Formal Wear,178.3,100,63,11232.9
+Women's Sweaters,Outerwear,37.67,83,62,2335.54
+Women's Jackets,Sportswear,176.34,66,4,705.36
+Women's Pants,Sportswear,162.99,67,62,10105.38
+Unisex Coats,Sportswear,194.73,41,0,0.0
+Unisex Pants,Outerwear,106.57,94,94,10017.58
+Unisex Jackets,Formal Wear,61.37,72,61,3743.57
+Women's Coats,Casual Wear,113.92,19,8,911.36
+Men's Jeans,Formal Wear,42.63,47,28,1193.64
+Men's Shirts,Formal Wear,40.25,65,39,1569.75
+Unisex T-Shirts,Formal Wear,196.14,34,27,5295.78
+Unisex Pants,Casual Wear,52.81,23,5,264.05
+Women's Blazers,Casual Wear,11.25,49,40,450.0
+Women's Dresses,Sportswear,85.88,98,70,6011.6
+Women's Jackets,Formal Wear,55.59,25,0,0.0
+Men's Dresses,Casual Wear,116.81,54,11,1284.91
+Unisex Shirts,Sportswear,186.4,57,49,9133.6
+Women's Skirts,Sportswear,112.93,80,35,3952.55
+Women's Shirts,Sportswear,97.05,11,3,291.15
+Men's Blazers,Formal Wear,40.13,71,42,1685.46
+Men's T-Shirts,Outerwear,86.54,66,15,1298.1
+Women's Sweaters,Casual Wear,89.2,77,21,1873.2
+Men's Shirts,Formal Wear,193.57,94,0,0.0
+Women's Jackets,Casual Wear,155.46,58,49,7617.54
+Men's T-Shirts,Outerwear,139.65,18,6,837.9
+Men's T-Shirts,Formal Wear,190.74,92,78,14877.72
+Unisex Jeans,Formal Wear,117.6,28,13,1528.8
+Men's Dresses,Sportswear,17.52,54,36,630.72
+Unisex Pants,Casual Wear,155.22,35,16,2483.52
+Unisex Jeans,Outerwear,183.94,11,6,1103.64
+Men's Blazers,Casual Wear,10.58,38,4,42.32
+Men's Coats,Sportswear,127.29,53,17,2163.93
+Women's Blazers,Sportswear,73.19,53,15,1097.85
+Unisex Dresses,Sportswear,188.23,69,24,4517.52
+Women's Dresses,Sportswear,174.27,80,75,13070.25
+Unisex T-Shirts,Outerwear,137.41,44,0,0.0
+Men's Sweaters,Formal Wear,184.84,18,3,554.52
+Women's Skirts,Casual Wear,176.22,26,22,3876.84
+Women's Skirts,Sportswear,20.87,41,19,396.53
+Unisex Shirts,Formal Wear,38.87,89,86,3342.82
+Unisex Sweaters,Sportswear,65.02,87,84,5461.68
+Women's Shirts,Formal Wear,34.01,16,7,238.07
+Unisex Skirts,Casual Wear,133.4,41,5,667.0
+Women's Blazers,Casual Wear,167.65,83,73,12238.45
+Women's Shirts,Casual Wear,86.01,27,6,516.06
+Men's Shirts,Outerwear,22.61,69,38,859.18
+Women's Shirts,Sportswear,136.99,75,11,1506.89
+Women's Jackets,Formal Wear,33.19,39,33,1095.27
+Women's Sweaters,Casual Wear,109.91,60,11,1209.01
+Women's Jeans,Formal Wear,32.38,61,42,1359.96
+Women's T-Shirts,Sportswear,68.43,55,28,1916.04
+Unisex Shirts,Sportswear,38.78,61,37,1434.86
+Men's Pants,Formal Wear,186.39,27,24,4473.36
+Unisex T-Shirts,Formal Wear,185.38,37,31,5746.78
+Unisex Dresses,Casual Wear,179.79,39,27,4854.33
+Women's Dresses,Formal Wear,134.76,22,14,1886.64
+Men's Jackets,Casual Wear,171.64,35,33,5664.12
+Unisex Coats,Outerwear,128.2,55,20,2564.0
+Unisex Sweaters,Sportswear,101.04,74,9,909.36
+Women's Dresses,Outerwear,168.94,85,44,7433.36
+Women's Shirts,Casual Wear,101.51,99,9,913.59
+Unisex Shirts,Outerwear,14.39,13,13,187.07
+Women's Sweaters,Casual Wear,85.63,58,31,2654.53
+Men's Coats,Casual Wear,168.35,28,24,4040.4
+Men's T-Shirts,Casual Wear,69.87,98,93,6497.91
+Unisex T-Shirts,Formal Wear,144.69,14,2,289.38
+Unisex Coats,Outerwear,138.59,19,6,831.54
+Men's Skirts,Outerwear,134.67,71,16,2154.72
+Women's Skirts,Outerwear,193.82,57,40,7752.8
+Women's Jeans,Casual Wear,112.79,90,26,2932.54
+Unisex Jackets,Sportswear,10.14,19,0,0.0
+Women's Shirts,Sportswear,180.01,66,1,180.01
+Men's Shirts,Sportswear,38.44,69,47,1806.68
+Women's Skirts,Casual Wear,51.0,29,25,1275.0
+Women's Jackets,Casual Wear,35.21,73,64,2253.44
+Men's Dresses,Casual Wear,67.86,100,13,882.18
+Women's Dresses,Casual Wear,11.56,92,40,462.4
+Men's Sweaters,Formal Wear,96.92,82,36,3489.12
+Men's Jeans,Formal Wear,36.87,68,3,110.61
+Men's Sweaters,Outerwear,113.55,12,12,1362.6
+Unisex Blazers,Formal Wear,139.62,55,35,4886.7
+Women's Coats,Casual Wear,190.5,44,2,381.0
+Unisex Shirts,Outerwear,152.87,44,4,611.48
+Unisex Coats,Casual Wear,76.17,39,27,2056.59
+Unisex Pants,Sportswear,184.77,27,13,2402.01
+Unisex Coats,Sportswear,183.51,78,63,11561.13
+Women's Sweaters,Sportswear,47.1,74,63,2967.3
+Unisex Dresses,Formal Wear,12.12,67,45,545.4
+Unisex Dresses,Outerwear,92.3,27,4,369.2
+Women's Dresses,Sportswear,106.58,47,6,639.48
+Unisex Jeans,Sportswear,52.58,27,27,1419.66
+Unisex T-Shirts,Casual Wear,175.03,49,37,6476.11
+Men's Jeans,Casual Wear,76.34,98,18,1374.12
+Women's Coats,Casual Wear,136.74,23,0,0.0
+Men's Jackets,Formal Wear,170.28,18,18,3065.04
+Men's Dresses,Sportswear,25.88,10,8,207.04
+Women's Jackets,Formal Wear,21.7,50,42,911.4
+Men's Pants,Formal Wear,67.76,27,9,609.84
+Unisex Pants,Sportswear,83.77,43,22,1842.94
+Men's Blazers,Formal Wear,27.75,35,35,971.25
+Women's Jackets,Formal Wear,112.65,78,8,901.2
+Men's Skirts,Sportswear,150.17,67,47,7057.99
+Men's Jeans,Outerwear,64.58,87,5,322.9
+Men's Coats,Sportswear,86.65,43,27,2339.55
+Unisex Sweaters,Casual Wear,97.09,97,50,4854.5
+Women's Shirts,Outerwear,189.2,84,79,14946.8
+Women's Jeans,Sportswear,37.93,38,9,341.37
+Men's Jackets,Formal Wear,62.3,41,2,124.6
+Unisex Coats,Formal Wear,165.83,83,80,13266.4
+Women's Skirts,Sportswear,159.12,37,25,3978.0
+Unisex Skirts,Formal Wear,59.95,31,25,1498.75
+Women's Skirts,Outerwear,110.88,23,4,443.52
+Men's Coats,Outerwear,58.33,47,12,699.96
+Men's Coats,Sportswear,135.44,58,25,3386.0
+Unisex Dresses,Casual Wear,126.01,35,3,378.03
+Men's Jeans,Outerwear,37.85,74,72,2725.2
+Unisex Pants,Outerwear,40.37,43,27,1089.99
+Women's Shirts,Casual Wear,88.89,50,30,2666.7
+Men's Pants,Casual Wear,13.8,70,48,662.4
+Women's Shirts,Formal Wear,84.71,44,16,1355.36
+Unisex Skirts,Formal Wear,48.55,83,81,3932.55
+Men's Skirts,Sportswear,47.52,30,21,997.92
+Men's Coats,Casual Wear,65.7,44,34,2233.8
+Men's Shirts,Sportswear,58.59,90,82,4804.38
+Women's Blazers,Sportswear,161.31,77,74,11936.94
+Unisex Jeans,Casual Wear,44.53,67,52,2315.56
+Women's Dresses,Sportswear,118.02,17,2,236.04
+Men's Jeans,Casual Wear,74.8,72,67,5011.6
+Men's Skirts,Outerwear,69.87,15,12,838.44
+Women's Shirts,Formal Wear,118.21,14,2,236.42
+Men's T-Shirts,Sportswear,52.32,27,0,0.0
+Men's Jackets,Casual Wear,173.03,90,13,2249.39
+Unisex T-Shirts,Sportswear,81.71,32,8,653.68
+Men's Skirts,Sportswear,44.2,36,15,663.0
+Men's Dresses,Sportswear,199.68,55,41,8186.88
+Men's Jackets,Formal Wear,16.41,24,12,196.92
+Unisex Jeans,Sportswear,120.49,68,26,3132.74
+Unisex Skirts,Sportswear,77.02,54,32,2464.64
+Men's T-Shirts,Casual Wear,149.48,44,43,6427.64
+Men's Dresses,Casual Wear,193.15,16,0,0.0
+Women's Blazers,Formal Wear,148.95,23,14,2085.3
+Men's Jeans,Formal Wear,140.36,70,28,3930.08
+Unisex Jackets,Casual Wear,176.34,85,49,8640.66
+Women's Jackets,Sportswear,38.56,51,6,231.36
+Women's Pants,Formal Wear,76.48,35,22,1682.56
+Women's Coats,Casual Wear,114.52,79,65,7443.8
+Men's Jackets,Outerwear,178.82,10,2,357.64
+Unisex Sweaters,Outerwear,100.71,36,13,1309.23
+Women's Jackets,Outerwear,39.19,66,37,1450.03
+Women's Sweaters,Outerwear,128.97,86,23,2966.31
+Men's Coats,Sportswear,144.53,97,82,11851.46
+Men's Shirts,Casual Wear,134.58,73,29,3902.82
+Women's Coats,Outerwear,89.83,61,42,3772.86
+Women's Jeans,Formal Wear,32.55,38,32,1041.6
+Men's Pants,Sportswear,112.7,79,61,6874.7
+Women's Jeans,Formal Wear,96.61,82,18,1738.98
+Women's Dresses,Casual Wear,41.12,21,21,863.52
+Women's Jackets,Sportswear,44.56,17,8,356.48
+Men's Shirts,Sportswear,38.26,46,23,879.98
+Women's Coats,Outerwear,51.97,25,20,1039.4
+Unisex Coats,Outerwear,14.62,57,10,146.2
+Men's T-Shirts,Sportswear,69.28,68,18,1247.04
+Unisex Coats,Casual Wear,27.31,83,74,2020.94
+Women's Shirts,Outerwear,156.88,23,0,0.0
+Unisex Pants,Sportswear,108.47,33,1,108.47
+Men's Coats,Sportswear,135.85,49,9,1222.65
+Unisex Coats,Casual Wear,50.22,25,5,251.1
+Men's Jeans,Casual Wear,51.5,53,19,978.5
+Men's Coats,Formal Wear,96.61,91,35,3381.35
+Women's Shirts,Formal Wear,171.83,24,3,515.49
+Unisex Jeans,Casual Wear,17.77,48,0,0.0
+Men's Jeans,Sportswear,164.83,69,34,5604.22
+Men's Dresses,Sportswear,60.43,90,77,4653.11
+Men's Jackets,Casual Wear,165.61,32,23,3809.03
+Men's Jeans,Formal Wear,69.47,15,4,277.88
+Unisex Shirts,Formal Wear,130.44,14,1,130.44
+Men's Jackets,Outerwear,82.67,56,33,2728.11
+Men's Skirts,Outerwear,89.94,11,7,629.58
+Women's Jackets,Formal Wear,144.16,65,59,8505.44
+Women's Jeans,Formal Wear,155.73,50,27,4204.71
+Unisex Sweaters,Formal Wear,10.48,83,3,31.44
+Women's Blazers,Sportswear,130.59,83,48,6268.32
+Women's Skirts,Casual Wear,115.22,50,7,806.54
+Men's Dresses,Formal Wear,55.36,46,19,1051.84
+Men's Coats,Outerwear,102.53,50,22,2255.66
+Men's Sweaters,Sportswear,154.13,87,48,7398.24
+Unisex Pants,Casual Wear,53.67,99,90,4830.3
+Women's Pants,Sportswear,124.95,55,0,0.0
+Men's Jeans,Sportswear,144.14,75,24,3459.36
+Women's Skirts,Sportswear,141.72,28,1,141.72
+Men's Shirts,Formal Wear,28.08,15,9,252.72
+Men's Pants,Formal Wear,25.29,89,58,1466.82
+Men's Pants,Sportswear,62.85,25,12,754.2
+Women's Coats,Casual Wear,169.27,37,2,338.54
+Men's Sweaters,Casual Wear,12.44,16,13,161.72
+Women's Pants,Sportswear,104.29,62,33,3441.57
+Men's Jackets,Outerwear,98.73,54,52,5133.96
+Unisex Shirts,Casual Wear,184.05,12,3,552.15
+Men's Pants,Formal Wear,81.0,74,30,2430.0
+Unisex Pants,Outerwear,63.83,28,0,0.0
+Men's Jackets,Formal Wear,122.66,97,59,7236.94
+Men's Pants,Sportswear,102.76,59,41,4213.16
+Unisex Sweaters,Casual Wear,129.25,38,37,4782.25
+Men's Jackets,Outerwear,28.25,12,8,226.0
+Women's Sweaters,Sportswear,151.42,16,14,2119.88
+Women's Skirts,Sportswear,53.98,59,0,0.0
+Men's Pants,Formal Wear,189.35,38,26,4923.1
+Women's Jeans,Formal Wear,171.06,72,53,9066.18
+Unisex Coats,Outerwear,108.16,83,47,5083.52
+Women's T-Shirts,Sportswear,165.82,90,13,2155.66
+Unisex Sweaters,Formal Wear,153.32,92,44,6746.08
+Men's Shirts,Formal Wear,15.78,99,36,568.08
+Men's Jeans,Outerwear,186.98,60,30,5609.4
+Unisex T-Shirts,Casual Wear,146.7,22,14,2053.8
+Men's T-Shirts,Outerwear,176.74,12,5,883.7
+Unisex Shirts,Casual Wear,96.68,96,73,7057.64
+Unisex Skirts,Sportswear,161.44,64,38,6134.72
+Men's Sweaters,Casual Wear,191.25,87,54,10327.5
+Women's T-Shirts,Formal Wear,98.44,71,61,6004.84
+Women's Sweaters,Sportswear,148.05,75,16,2368.8
+Men's Jeans,Casual Wear,81.31,86,61,4959.91
+Men's Coats,Formal Wear,140.52,65,13,1826.76
+Unisex T-Shirts,Outerwear,140.25,31,30,4207.5
+Unisex Pants,Casual Wear,133.86,86,59,7897.74
+Men's Coats,Outerwear,170.0,22,7,1190.0
+Unisex Shirts,Formal Wear,163.15,48,38,6199.7
+Women's Shirts,Formal Wear,96.88,78,55,5328.4
+Unisex Pants,Outerwear,30.22,80,14,423.08
+Men's T-Shirts,Casual Wear,190.5,40,6,1143.0
+Unisex Shirts,Sportswear,149.24,34,11,1641.64
+Men's Sweaters,Casual Wear,11.7,67,53,620.1
+Unisex Blazers,Outerwear,175.99,13,5,879.95
+Women's Sweaters,Sportswear,130.64,63,24,3135.36
+Women's Sweaters,Sportswear,188.52,35,4,754.08
+Women's Shirts,Sportswear,78.61,90,11,864.71
+Unisex T-Shirts,Outerwear,198.94,33,3,596.82
+Men's Blazers,Sportswear,54.53,14,14,763.42
+Unisex Jackets,Outerwear,122.75,58,21,2577.75
+Unisex Dresses,Casual Wear,109.25,72,35,3823.75
+Men's Jackets,Outerwear,117.15,73,44,5154.6
+Unisex Sweaters,Casual Wear,62.6,48,22,1377.2
+Unisex Jackets,Casual Wear,16.96,46,29,491.84
+Men's Jeans,Outerwear,87.24,42,20,1744.8
+Unisex T-Shirts,Casual Wear,75.46,57,49,3697.54
+Men's Sweaters,Outerwear,74.75,84,47,3513.25
+Women's Shirts,Formal Wear,99.39,24,18,1789.02
+Men's Shirts,Formal Wear,127.12,49,11,1398.32
+Unisex Blazers,Sportswear,29.22,95,43,1256.46
+Unisex Skirts,Casual Wear,100.74,72,35,3525.9
+Women's Blazers,Casual Wear,46.64,14,6,279.84
+Women's Blazers,Casual Wear,11.52,66,65,748.8
+Men's Jeans,Outerwear,162.63,45,38,6179.94
+Unisex Sweaters,Sportswear,62.5,68,42,2625.0
+Women's T-Shirts,Formal Wear,100.0,92,22,2200.0
+Unisex Jackets,Casual Wear,19.16,35,27,517.32
+Unisex Pants,Sportswear,191.65,40,5,958.25
+Men's Skirts,Outerwear,182.47,20,2,364.94
+Women's T-Shirts,Sportswear,69.06,45,29,2002.74
+Unisex Jackets,Formal Wear,15.7,35,17,266.9
+Men's Skirts,Sportswear,96.81,22,11,1064.91
+Unisex T-Shirts,Outerwear,187.98,71,5,939.9
+Women's Shirts,Sportswear,108.34,61,3,325.02
+Women's Coats,Outerwear,71.74,33,17,1219.58
+Women's Dresses,Outerwear,84.8,57,39,3307.2
+Men's Blazers,Outerwear,141.67,97,47,6658.49
+Men's Skirts,Formal Wear,95.75,29,20,1915.0
+Men's Sweaters,Outerwear,20.04,28,19,380.76
+Men's Pants,Outerwear,84.01,10,4,336.04
+Women's Pants,Sportswear,129.65,41,32,4148.8
+Women's Dresses,Casual Wear,60.62,84,77,4667.74
+Women's Shirts,Formal Wear,154.93,84,4,619.72
+Women's Jeans,Sportswear,177.61,74,50,8880.5
+Men's T-Shirts,Outerwear,67.63,14,4,270.52
+Men's Jackets,Sportswear,85.57,88,75,6417.75
+Men's Blazers,Outerwear,63.12,93,44,2777.28
+Women's Shirts,Formal Wear,83.79,95,85,7122.15
+Unisex Jackets,Formal Wear,116.84,48,14,1635.76
+Men's Jackets,Casual Wear,55.85,39,25,1396.25
+Men's Blazers,Outerwear,199.9,86,33,6596.7
+Women's T-Shirts,Formal Wear,77.13,73,26,2005.38
+Women's Blazers,Sportswear,25.81,79,34,877.54
+Unisex T-Shirts,Outerwear,185.66,25,19,3527.54
+Women's Skirts,Casual Wear,56.57,97,9,509.13
+Men's Dresses,Outerwear,99.44,37,35,3480.4
+Men's Blazers,Formal Wear,162.86,17,16,2605.76
+Unisex Coats,Sportswear,172.09,19,2,344.18
+Unisex Dresses,Outerwear,39.35,80,74,2911.9
+Unisex Coats,Formal Wear,28.77,49,10,287.7
+Women's Jackets,Outerwear,148.99,63,16,2383.84
+Women's Sweaters,Casual Wear,149.7,66,2,299.4
+Men's Pants,Sportswear,51.72,52,33,1706.76
+Women's Coats,Formal Wear,181.74,67,63,11449.62
+Women's Blazers,Outerwear,44.12,67,64,2823.68
+Unisex Blazers,Sportswear,131.86,55,35,4615.1
+Women's Coats,Sportswear,13.33,77,0,0.0
+Men's Jeans,Casual Wear,54.55,35,3,163.65
+Women's Jackets,Sportswear,116.09,59,1,116.09
+Unisex T-Shirts,Sportswear,84.89,45,16,1358.24
+Unisex Jeans,Casual Wear,21.6,31,7,151.2
+Women's Jeans,Casual Wear,34.91,52,43,1501.13
+Men's Pants,Sportswear,133.71,22,10,1337.1
+Men's Blazers,Formal Wear,128.42,76,76,9759.92
+Unisex Pants,Casual Wear,67.58,10,6,405.48
+Women's Skirts,Formal Wear,78.25,36,4,313.0
+Unisex Blazers,Outerwear,80.4,85,67,5386.8
+Women's Jackets,Formal Wear,103.79,45,40,4151.6
+Women's Blazers,Outerwear,45.68,49,27,1233.36
+Men's Pants,Formal Wear,157.75,32,12,1893.0
+Women's T-Shirts,Casual Wear,17.71,49,26,460.46
+Men's Shirts,Formal Wear,151.34,68,12,1816.08
+Women's Jeans,Sportswear,132.62,72,35,4641.7
+Men's T-Shirts,Outerwear,33.06,29,5,165.3
+Women's Shirts,Outerwear,166.8,43,3,500.4
+Unisex T-Shirts,Formal Wear,129.41,25,12,1552.92
+Women's Sweaters,Formal Wear,156.54,53,22,3443.88
+Unisex Jeans,Outerwear,182.72,89,55,10049.6
+Unisex Dresses,Casual Wear,47.6,81,50,2380.0
+Unisex T-Shirts,Outerwear,19.48,72,2,38.96
+Men's Jeans,Outerwear,179.61,13,11,1975.71
+Women's Jackets,Casual Wear,146.28,28,28,4095.84
+Men's Shirts,Casual Wear,177.94,35,27,4804.38
+Men's Sweaters,Outerwear,68.28,42,10,682.8
+Men's Shirts,Outerwear,154.94,72,42,6507.48
+Unisex Jackets,Sportswear,179.28,74,72,12908.16
+Unisex Skirts,Formal Wear,74.76,79,74,5532.24
+Women's T-Shirts,Casual Wear,185.6,17,11,2041.6
+Men's Blazers,Outerwear,183.8,82,29,5330.2
+Unisex Jackets,Formal Wear,128.34,76,30,3850.2
+Men's Pants,Casual Wear,103.32,39,18,1859.76
+Women's Blazers,Outerwear,89.99,20,13,1169.87
+Unisex Blazers,Casual Wear,176.8,59,49,8663.2
+Men's Dresses,Outerwear,50.42,21,13,655.46
+Unisex Shirts,Sportswear,118.32,40,19,2248.08
+Women's T-Shirts,Outerwear,128.56,23,11,1414.16
+Men's Sweaters,Outerwear,181.36,66,48,8705.28
+Unisex Sweaters,Formal Wear,61.55,60,55,3385.25
+Unisex Shirts,Sportswear,178.67,83,22,3930.74
+Men's Skirts,Outerwear,45.03,61,17,765.51
+Men's T-Shirts,Sportswear,20.92,81,25,523.0
+Men's Pants,Sportswear,82.54,47,18,1485.72
+Women's Blazers,Sportswear,144.25,51,49,7068.25
+Unisex Blazers,Casual Wear,73.91,90,34,2512.94
+Men's Jackets,Sportswear,189.66,79,53,10051.98
+Men's Jackets,Sportswear,76.52,80,66,5050.32
+Men's Coats,Casual Wear,46.02,85,16,736.32
+Unisex Shirts,Formal Wear,151.93,55,50,7596.5
+Unisex Skirts,Casual Wear,146.32,81,59,8632.88
+Unisex Sweaters,Formal Wear,128.02,85,58,7425.16
+Men's Shirts,Casual Wear,148.68,70,0,0.0
+Men's Dresses,Outerwear,153.03,87,80,12242.4
+Men's Blazers,Formal Wear,170.85,33,7,1195.95
+Women's Shirts,Formal Wear,73.68,60,7,515.76
+Unisex Dresses,Formal Wear,148.2,22,19,2815.8
+Unisex Coats,Casual Wear,89.13,35,0,0.0
+Men's Jackets,Sportswear,106.95,90,28,2994.6
+Men's Coats,Sportswear,99.66,17,15,1494.9
+Unisex Skirts,Outerwear,136.5,61,35,4777.5
+Unisex Jackets,Sportswear,114.02,95,10,1140.2
+Women's Jeans,Sportswear,54.95,92,7,384.65
+Unisex Dresses,Casual Wear,32.3,20,15,484.5
+Unisex Dresses,Sportswear,102.56,16,13,1333.28
+Men's Dresses,Formal Wear,136.08,27,15,2041.2
+Unisex T-Shirts,Sportswear,83.56,69,18,1504.08
+Men's Dresses,Casual Wear,40.94,70,69,2824.86
+Unisex T-Shirts,Sportswear,74.42,13,11,818.62
+Women's Blazers,Outerwear,64.15,92,86,5516.9
+Women's Pants,Sportswear,166.59,73,36,5997.24
+Women's Sweaters,Sportswear,30.55,49,32,977.6
+Unisex Dresses,Casual Wear,145.13,63,36,5224.68
+Women's Shirts,Formal Wear,105.38,100,72,7587.36
+Women's Coats,Outerwear,180.81,20,13,2350.53
+Men's Sweaters,Outerwear,165.18,10,7,1156.26
+Unisex Jackets,Formal Wear,143.71,66,4,574.84
+Men's Coats,Casual Wear,81.26,66,15,1218.9
+Men's Coats,Formal Wear,139.77,61,46,6429.42
+Unisex Shirts,Sportswear,57.68,75,58,3345.44
+Unisex T-Shirts,Outerwear,170.01,21,16,2720.16
+Men's Jackets,Casual Wear,199.01,75,64,12736.64
+Men's T-Shirts,Outerwear,186.66,75,54,10079.64
+Women's Skirts,Formal Wear,178.96,56,20,3579.2
+Women's Skirts,Casual Wear,94.04,85,80,7523.2
+Men's Jackets,Formal Wear,72.25,78,41,2962.25
+Men's Skirts,Outerwear,121.49,56,28,3401.72
+Unisex Sweaters,Outerwear,174.91,19,16,2798.56
+Unisex Dresses,Casual Wear,151.71,60,17,2579.07
+Unisex Blazers,Casual Wear,194.06,72,8,1552.48
+Men's Dresses,Outerwear,129.89,65,26,3377.14
+Men's Sweaters,Casual Wear,171.25,15,5,856.25
+Unisex Dresses,Outerwear,32.49,42,7,227.43
+Unisex Skirts,Sportswear,57.07,84,31,1769.17
+Men's Blazers,Outerwear,148.37,47,38,5638.06
+Women's T-Shirts,Outerwear,171.92,79,65,11174.8
+Unisex Blazers,Formal Wear,160.97,82,14,2253.58
+Unisex Sweaters,Sportswear,11.2,26,6,67.2
+Men's Coats,Formal Wear,111.15,94,1,111.15
+Men's Shirts,Outerwear,77.56,17,13,1008.28
+Unisex Blazers,Formal Wear,160.83,38,34,5468.22
+Unisex Pants,Formal Wear,99.6,77,22,2191.2
+Men's Jackets,Formal Wear,139.38,30,2,278.76
+Men's Sweaters,Casual Wear,62.68,29,11,689.48
+Unisex T-Shirts,Outerwear,116.73,56,10,1167.3
+Unisex Coats,Sportswear,71.63,72,9,644.67
+Men's Pants,Outerwear,93.12,39,15,1396.8
+Men's T-Shirts,Formal Wear,152.07,36,15,2281.05
+Men's Jackets,Formal Wear,34.23,97,62,2122.26
+Men's Shirts,Sportswear,30.82,54,37,1140.34
+Women's Blazers,Sportswear,88.56,27,13,1151.28
+Unisex Sweaters,Casual Wear,23.55,91,62,1460.1
+Women's Dresses,Casual Wear,139.36,30,15,2090.4
+Men's Shirts,Outerwear,126.36,12,9,1137.24
+Women's Dresses,Casual Wear,195.25,56,1,195.25
+Women's Skirts,Outerwear,195.78,64,33,6460.74
+Women's Pants,Sportswear,25.73,14,14,360.22
+Women's Skirts,Sportswear,163.5,62,0,0.0
+Men's Sweaters,Casual Wear,191.32,17,8,1530.56
+Unisex Sweaters,Formal Wear,86.09,79,72,6198.48
+Women's Skirts,Outerwear,91.36,54,48,4385.28
+Men's Sweaters,Formal Wear,54.05,15,4,216.2
+Women's Jeans,Formal Wear,93.61,24,8,748.88
+Unisex Skirts,Outerwear,59.37,54,7,415.59
+Men's Pants,Outerwear,151.15,78,69,10429.35
+Women's Skirts,Formal Wear,10.91,85,43,469.13
+Women's T-Shirts,Casual Wear,129.7,49,25,3242.5
+Women's Dresses,Outerwear,191.87,12,8,1534.96
+Unisex Shirts,Sportswear,53.04,16,9,477.36
+Women's Coats,Sportswear,69.57,18,9,626.13
+Women's T-Shirts,Casual Wear,36.29,13,11,399.19
+Men's Shirts,Outerwear,27.57,49,16,441.12
+Men's Jeans,Casual Wear,29.55,95,18,531.9
+Women's T-Shirts,Outerwear,29.61,60,28,829.08
+Unisex Jackets,Sportswear,34.14,55,41,1399.74
+Men's T-Shirts,Formal Wear,174.12,89,13,2263.56
+Men's Coats,Sportswear,61.49,36,30,1844.7
+Women's Jeans,Formal Wear,190.68,27,14,2669.52
+Women's Pants,Casual Wear,161.81,43,0,0.0
+Unisex Sweaters,Sportswear,60.37,53,51,3078.87
+Women's Coats,Sportswear,162.44,87,34,5522.96
+Women's Coats,Sportswear,51.3,75,50,2565.0
+Women's Jackets,Sportswear,59.96,68,52,3117.92
+Unisex Jeans,Sportswear,139.98,66,27,3779.46
+Unisex Shirts,Sportswear,185.37,30,20,3707.4
+Women's Jeans,Outerwear,64.99,30,30,1949.7
+Men's Sweaters,Outerwear,80.45,41,19,1528.55
+Unisex Jeans,Outerwear,138.09,93,49,6766.41
+Men's Jeans,Outerwear,120.31,61,50,6015.5
+Unisex Dresses,Outerwear,36.43,13,8,291.44
+Unisex T-Shirts,Formal Wear,13.16,64,6,78.96
+Women's Jeans,Casual Wear,172.35,93,45,7755.75
+Men's T-Shirts,Outerwear,111.85,34,6,671.1
+Unisex Sweaters,Sportswear,86.34,57,21,1813.14
+Women's Coats,Outerwear,138.96,36,10,1389.6
+Unisex Jeans,Casual Wear,199.21,98,83,16534.43
+Men's Jackets,Formal Wear,166.59,91,71,11827.89
+Unisex Blazers,Sportswear,181.08,14,4,724.32
+Women's Pants,Formal Wear,92.23,10,10,922.3
+Women's Sweaters,Outerwear,145.49,86,41,5965.09
+Unisex T-Shirts,Sportswear,150.54,81,51,7677.54
+Unisex Blazers,Casual Wear,39.14,44,38,1487.32
+Women's Blazers,Outerwear,104.55,38,28,2927.4
+Unisex Jackets,Formal Wear,158.11,45,36,5691.96
+Unisex Jackets,Sportswear,193.02,95,79,15248.58
+Women's Skirts,Casual Wear,82.19,57,30,2465.7
+Women's Jeans,Formal Wear,166.51,10,10,1665.1
+Women's Pants,Sportswear,144.83,31,1,144.83
+Men's Pants,Outerwear,28.37,61,14,397.18
+Women's Skirts,Outerwear,158.01,10,7,1106.07
+Unisex Jeans,Sportswear,79.19,72,35,2771.65
+Men's Pants,Formal Wear,42.03,91,67,2816.01
+Women's T-Shirts,Sportswear,50.75,21,1,50.75
+Women's Pants,Casual Wear,10.24,66,31,317.44
+Women's T-Shirts,Casual Wear,51.23,16,8,409.84
+Women's Blazers,Outerwear,120.89,61,36,4352.04
+Unisex Pants,Casual Wear,128.08,35,31,3970.48
+Women's Pants,Sportswear,111.08,87,59,6553.72
+Unisex Sweaters,Casual Wear,65.06,63,0,0.0
+Unisex T-Shirts,Formal Wear,126.32,37,23,2905.36
+Women's Jackets,Formal Wear,140.13,99,2,280.26
+Unisex Dresses,Formal Wear,195.63,49,13,2543.19
+Men's Jeans,Formal Wear,35.51,97,13,461.63
+Women's Dresses,Formal Wear,70.27,38,8,562.16
+Men's Shirts,Formal Wear,153.67,21,6,922.02
+Women's Sweaters,Casual Wear,69.49,31,29,2015.21
+Women's Coats,Casual Wear,69.08,20,18,1243.44
+Men's Dresses,Formal Wear,26.13,11,5,130.65
+Women's Dresses,Outerwear,109.56,33,0,0.0
+Men's Dresses,Sportswear,102.14,39,6,612.84
+Unisex Dresses,Sportswear,130.8,87,68,8894.4
+Men's Pants,Formal Wear,193.43,31,4,773.72
+Women's T-Shirts,Casual Wear,86.37,35,32,2763.84
+Unisex Skirts,Casual Wear,93.67,43,25,2341.75
+Women's Shirts,Sportswear,23.77,88,26,618.02
+Unisex Jackets,Formal Wear,122.01,18,16,1952.16
+Unisex Sweaters,Casual Wear,139.33,61,5,696.65
+Men's Sweaters,Formal Wear,91.72,61,45,4127.4
+Unisex Skirts,Outerwear,105.69,36,24,2536.56
+Men's Skirts,Sportswear,50.6,35,31,1568.6
+Unisex Jackets,Formal Wear,152.9,56,36,5504.4
+Unisex Sweaters,Casual Wear,198.01,13,4,792.04
+Unisex Jeans,Outerwear,100.17,68,32,3205.44
+Women's Coats,Formal Wear,109.67,47,20,2193.4
+Unisex Shirts,Casual Wear,192.42,78,43,8274.06
+Women's Coats,Casual Wear,14.49,71,51,738.99
+Women's Coats,Formal Wear,194.9,21,15,2923.5
+Men's Jeans,Outerwear,87.27,86,56,4887.12
+Unisex Jeans,Outerwear,51.7,80,56,2895.2
+Men's Dresses,Outerwear,135.47,95,7,948.29
+Women's Sweaters,Formal Wear,121.12,88,21,2543.52
+Women's Skirts,Sportswear,170.96,37,13,2222.48
+Men's Pants,Casual Wear,120.2,62,28,3365.6
+Unisex Skirts,Sportswear,145.45,55,38,5527.1
+Men's Pants,Casual Wear,138.62,36,29,4019.98
+Women's T-Shirts,Casual Wear,116.58,32,28,3264.24
+Men's Blazers,Outerwear,44.48,73,39,1734.72
+Men's Coats,Sportswear,130.81,74,68,8895.08
+Men's Coats,Formal Wear,147.87,34,7,1035.09
+Men's Coats,Outerwear,158.69,32,15,2380.35
+Unisex Sweaters,Outerwear,79.45,66,11,873.95
+Unisex Dresses,Formal Wear,101.38,88,52,5271.76
+Men's Blazers,Casual Wear,137.37,54,51,7005.87
+Men's Skirts,Casual Wear,124.3,59,3,372.9
+Women's T-Shirts,Outerwear,67.9,84,45,3055.5
+Unisex Shirts,Sportswear,84.26,67,29,2443.54
+Women's Jackets,Formal Wear,74.87,36,17,1272.79
+Unisex Pants,Casual Wear,68.55,19,10,685.5
+Unisex Jackets,Outerwear,70.31,38,24,1687.44
+Men's Jackets,Sportswear,71.15,13,0,0.0
+Unisex Pants,Sportswear,39.39,72,55,2166.45
+Women's Blazers,Sportswear,89.5,25,7,626.5
+Men's Pants,Sportswear,101.33,44,42,4255.86
+Women's Jeans,Casual Wear,161.6,73,68,10988.8
+Men's Coats,Outerwear,169.67,89,81,13743.27
+Men's Jackets,Outerwear,146.4,56,36,5270.4
+Men's Shirts,Sportswear,31.14,21,21,653.94
+Men's Shirts,Casual Wear,143.65,100,17,2442.05
+Women's Pants,Sportswear,75.38,98,95,7161.1
+Women's T-Shirts,Casual Wear,73.81,32,12,885.72
+Women's Pants,Formal Wear,104.51,38,3,313.53
+Women's Sweaters,Outerwear,132.25,14,5,661.25
+Men's Pants,Casual Wear,25.38,69,5,126.9
+Men's Dresses,Outerwear,133.43,82,35,4670.05
+Unisex Jeans,Casual Wear,75.63,49,1,75.63
+Women's T-Shirts,Casual Wear,179.14,11,2,358.28
+Women's Sweaters,Formal Wear,50.73,44,1,50.73
+Women's Dresses,Casual Wear,91.61,14,13,1190.93
+Men's T-Shirts,Sportswear,170.02,81,34,5780.68
+Men's Skirts,Sportswear,73.48,34,9,661.32
+Women's Sweaters,Sportswear,65.16,26,4,260.64
+Men's Dresses,Outerwear,135.29,83,2,270.58
+Men's T-Shirts,Formal Wear,21.28,94,36,766.08
+Unisex Sweaters,Outerwear,186.18,62,28,5213.04
+Men's Skirts,Casual Wear,40.45,33,3,121.35
+Unisex Blazers,Formal Wear,19.15,10,3,57.45
+Unisex Shirts,Outerwear,167.01,40,15,2505.15
+Women's Pants,Sportswear,152.17,62,54,8217.18
+Women's Shirts,Outerwear,102.26,15,9,920.34
+Women's Blazers,Outerwear,49.85,55,12,598.2
+Men's Jackets,Outerwear,131.49,33,28,3681.72
+Unisex Jeans,Formal Wear,137.57,22,6,825.42
+Men's Skirts,Formal Wear,101.56,99,27,2742.12
+Men's Shirts,Casual Wear,116.81,44,23,2686.63
+Men's T-Shirts,Formal Wear,141.75,97,39,5528.25
+Unisex Dresses,Formal Wear,84.1,23,0,0.0
+Unisex Pants,Sportswear,94.4,62,55,5192.0
+Men's Shirts,Formal Wear,119.16,74,24,2859.84
+Unisex Blazers,Sportswear,131.05,45,37,4848.85
+Unisex Jackets,Casual Wear,20.38,71,52,1059.76
+Unisex Blazers,Formal Wear,15.98,91,41,655.18
+Women's Skirts,Formal Wear,43.65,61,51,2226.15
+Women's Jackets,Sportswear,192.34,94,60,11540.4
+Men's T-Shirts,Casual Wear,58.64,23,18,1055.52
+Unisex Blazers,Outerwear,124.84,85,22,2746.48
+Women's Sweaters,Casual Wear,58.32,65,58,3382.56
+Men's Sweaters,Casual Wear,106.44,75,75,7983.0
+Women's Sweaters,Outerwear,99.04,74,39,3862.56
+Unisex Coats,Formal Wear,31.35,29,13,407.55
+Unisex Shirts,Casual Wear,11.25,96,64,720.0
+Unisex Jackets,Casual Wear,10.57,60,57,602.49
+Men's Pants,Sportswear,106.3,55,4,425.2
+Men's Sweaters,Formal Wear,89.37,88,77,6881.49
+Women's Jeans,Outerwear,21.22,92,60,1273.2
+Unisex Jeans,Sportswear,37.95,39,13,493.35
+Women's Jeans,Casual Wear,51.79,66,8,414.32
+Unisex Blazers,Casual Wear,183.32,15,6,1099.92
+Men's Sweaters,Casual Wear,108.62,82,75,8146.5
+Unisex Skirts,Casual Wear,67.21,29,3,201.63
+Unisex Skirts,Outerwear,167.12,88,2,334.24
+Unisex Dresses,Formal Wear,137.7,24,21,2891.7
+Women's Coats,Casual Wear,74.94,58,58,4346.52
+Men's Coats,Casual Wear,117.36,87,34,3990.24
+Women's Dresses,Formal Wear,70.87,75,18,1275.66
+Unisex Shirts,Formal Wear,163.89,24,9,1475.01
+Women's Dresses,Formal Wear,91.8,72,71,6517.8
+Unisex Coats,Outerwear,18.98,15,2,37.96
+Women's Jackets,Formal Wear,181.83,81,10,1818.3
+Unisex Jackets,Casual Wear,150.34,51,3,451.02
+Men's Sweaters,Formal Wear,85.75,37,34,2915.5
+Unisex Dresses,Casual Wear,117.13,10,10,1171.3
+Unisex Skirts,Casual Wear,166.33,98,58,9647.14
+Women's Blazers,Formal Wear,77.07,40,12,924.84
+Men's Blazers,Outerwear,62.49,66,59,3686.91
+Unisex Blazers,Casual Wear,128.16,36,7,897.12
+Unisex Sweaters,Outerwear,102.27,71,35,3579.45
+Unisex Shirts,Outerwear,65.56,60,23,1507.88
+Men's Sweaters,Sportswear,110.24,44,30,3307.2
+Men's Jeans,Outerwear,37.7,16,0,0.0
+Women's Coats,Formal Wear,145.8,24,10,1458.0
+Unisex Dresses,Outerwear,117.08,16,0,0.0
+Unisex Skirts,Formal Wear,103.04,76,28,2885.12
+Women's Dresses,Outerwear,148.67,65,53,7879.51
+Unisex Jackets,Sportswear,64.75,95,1,64.75
+Unisex T-Shirts,Outerwear,37.98,75,21,797.58
+Men's Shirts,Casual Wear,184.63,36,30,5538.9
+Women's T-Shirts,Outerwear,31.47,17,6,188.82
+Unisex Blazers,Outerwear,92.27,61,37,3413.99
+Men's Jeans,Outerwear,18.24,34,20,364.8
+Men's Coats,Sportswear,131.03,44,39,5110.17
+Unisex Sweaters,Sportswear,22.31,97,20,446.2
+Women's Skirts,Casual Wear,88.9,31,24,2133.6
+Unisex Pants,Casual Wear,131.79,100,56,7380.24
+Men's Jeans,Formal Wear,174.53,54,5,872.65
+Women's Sweaters,Sportswear,129.51,83,66,8547.66
+Women's Sweaters,Formal Wear,11.31,95,61,689.91
+Women's Jackets,Outerwear,12.4,10,7,86.8
+Men's Shirts,Sportswear,51.46,31,20,1029.2
+Women's Pants,Casual Wear,147.32,24,11,1620.52
+Men's Skirts,Casual Wear,151.09,96,39,5892.51
+Men's Skirts,Outerwear,100.07,71,41,4102.87
+Women's Coats,Casual Wear,103.81,95,44,4567.64
+Men's Jeans,Casual Wear,112.37,27,21,2359.77
+Men's Jeans,Sportswear,122.91,82,41,5039.31
+Unisex Sweaters,Casual Wear,95.18,78,2,190.36
+Unisex Jackets,Sportswear,11.96,21,10,119.6
+Women's Skirts,Formal Wear,152.11,92,11,1673.21
+Women's Skirts,Formal Wear,172.73,23,15,2590.95
+Women's Jeans,Casual Wear,82.68,67,34,2811.12
+Men's Blazers,Sportswear,193.58,41,22,4258.76
+Men's Skirts,Formal Wear,106.06,68,10,1060.6
+Women's Coats,Casual Wear,96.24,33,5,481.2
+Men's Blazers,Outerwear,118.53,10,8,948.24
+Men's Jeans,Sportswear,18.44,91,73,1346.12
+Men's Skirts,Casual Wear,144.29,39,25,3607.25
+Men's Skirts,Sportswear,183.14,38,0,0.0
+Women's Coats,Sportswear,131.15,31,28,3672.2
+Women's Jackets,Casual Wear,159.47,80,64,10206.08
+Men's Pants,Sportswear,121.31,97,34,4124.54
+Unisex Jackets,Formal Wear,59.98,72,65,3898.7
+Unisex Jackets,Formal Wear,118.15,43,43,5080.45
+Unisex Coats,Casual Wear,124.09,70,12,1489.08
+Women's Shirts,Sportswear,107.18,64,56,6002.08
+Women's Sweaters,Formal Wear,42.4,62,30,1272.0
+Men's Shirts,Sportswear,53.65,68,2,107.3
+Unisex Blazers,Outerwear,81.84,87,9,736.56
+Unisex Shirts,Casual Wear,65.23,74,8,521.84
+Women's Jackets,Outerwear,188.4,28,13,2449.2
+Women's Skirts,Formal Wear,40.13,76,9,361.17
+Women's Coats,Formal Wear,194.72,66,34,6620.48
+Women's Blazers,Outerwear,10.38,59,31,321.78
+Men's Jeans,Outerwear,147.38,44,19,2800.22
+Women's Blazers,Formal Wear,197.8,97,70,13846.0
+Men's Coats,Outerwear,62.72,46,16,1003.52
+Unisex Jackets,Formal Wear,135.17,82,59,7975.03
+Men's Coats,Outerwear,130.69,85,2,261.38
+Men's T-Shirts,Formal Wear,128.85,14,7,901.95
+Unisex Blazers,Formal Wear,198.79,32,23,4572.17
+Unisex Coats,Outerwear,81.98,83,75,6148.5
+Unisex Pants,Sportswear,190.21,84,3,570.63
+Unisex Sweaters,Outerwear,25.04,36,20,500.8
+Unisex Shirts,Outerwear,81.23,51,38,3086.74
+Women's Coats,Outerwear,134.24,20,1,134.24
+Women's Sweaters,Formal Wear,37.7,12,5,188.5
+Women's Pants,Sportswear,51.02,57,23,1173.46
+Unisex Sweaters,Sportswear,137.11,47,43,5895.73
+Women's Blazers,Casual Wear,16.39,34,7,114.73
+Unisex Dresses,Sportswear,190.69,66,52,9915.88
+Men's Jackets,Outerwear,15.09,88,22,331.98
+Men's Pants,Casual Wear,62.33,88,85,5298.05
+Unisex Blazers,Sportswear,14.13,98,32,452.16
+Women's Shirts,Sportswear,182.78,14,3,548.34
+Men's T-Shirts,Casual Wear,76.21,71,18,1371.78
+Men's Blazers,Formal Wear,30.53,60,34,1038.02
+Unisex Blazers,Casual Wear,178.68,64,33,5896.44
+Unisex Coats,Formal Wear,91.69,65,11,1008.59
+Unisex Shirts,Sportswear,166.5,93,81,13486.5
+Unisex Dresses,Casual Wear,24.01,23,10,240.1
+Unisex Coats,Sportswear,44.1,97,78,3439.8
+Unisex Coats,Casual Wear,142.37,92,36,5125.32
+Men's Dresses,Casual Wear,83.5,39,28,2338.0
+Unisex Coats,Casual Wear,160.37,27,8,1282.96
+Unisex Blazers,Outerwear,173.58,64,52,9026.16
+Unisex Dresses,Casual Wear,141.83,51,20,2836.6
+Unisex Dresses,Casual Wear,83.16,62,53,4407.48
+Men's Skirts,Sportswear,73.69,92,6,442.14
+Women's Dresses,Outerwear,155.21,50,2,310.42
+Men's Skirts,Outerwear,180.0,79,1,180.0
+Unisex Jackets,Casual Wear,134.78,48,0,0.0
+Unisex Jackets,Outerwear,136.09,88,65,8845.85
+Women's Skirts,Outerwear,118.88,43,24,2853.12
+Unisex Jeans,Formal Wear,101.58,36,33,3352.14
+Unisex Blazers,Casual Wear,12.92,73,34,439.28
+Men's Sweaters,Casual Wear,179.87,41,37,6655.19
+Women's Jackets,Sportswear,170.4,96,82,13972.8
+Unisex Coats,Formal Wear,33.52,87,65,2178.8
+Men's Jeans,Outerwear,142.54,16,14,1995.56
+Unisex Skirts,Casual Wear,92.61,54,2,185.22
+Men's T-Shirts,Casual Wear,160.87,84,17,2734.79
+Women's Dresses,Sportswear,146.85,37,12,1762.2
+Unisex Jeans,Casual Wear,147.99,39,15,2219.85
+Men's Jeans,Outerwear,181.09,80,72,13038.48
+Men's Coats,Outerwear,72.8,80,67,4877.6
+Women's Coats,Sportswear,100.79,14,12,1209.48
+Unisex Coats,Formal Wear,111.78,31,22,2459.16
+Unisex Shirts,Outerwear,95.27,22,12,1143.24
+Women's Jeans,Casual Wear,135.84,19,5,679.2
+Men's Blazers,Sportswear,182.03,91,19,3458.57
+Women's T-Shirts,Formal Wear,168.57,55,45,7585.65
+Unisex Jackets,Sportswear,76.49,18,6,458.94
+Unisex Sweaters,Sportswear,46.99,81,33,1550.67
+Women's Coats,Outerwear,64.94,24,19,1233.86
+Women's Dresses,Casual Wear,111.97,64,20,2239.4
+Men's Jeans,Outerwear,93.91,54,23,2159.93
+Unisex Sweaters,Outerwear,99.41,15,9,894.69
+Women's Jackets,Casual Wear,141.26,62,8,1130.08
+Women's Jackets,Outerwear,75.18,51,28,2105.04
+Women's Coats,Sportswear,122.68,20,1,122.68
+Unisex T-Shirts,Casual Wear,51.88,50,11,570.68
+Men's Blazers,Casual Wear,122.63,86,66,8093.58
+Men's Jackets,Sportswear,190.84,10,4,763.36
+Unisex Jackets,Casual Wear,44.97,31,26,1169.22
+Men's Shirts,Outerwear,144.17,93,50,7208.5
+Women's Jeans,Formal Wear,191.42,76,52,9953.84
+Women's Jeans,Formal Wear,22.07,32,17,375.19
+Unisex Dresses,Casual Wear,166.6,49,8,1332.8
+Men's Pants,Sportswear,151.04,63,34,5135.36
+Women's Blazers,Outerwear,115.79,25,9,1042.11
+Women's Jeans,Formal Wear,85.23,100,42,3579.66
+Women's Skirts,Formal Wear,72.82,72,29,2111.78
+Women's T-Shirts,Formal Wear,129.11,24,19,2453.09
+Men's Pants,Formal Wear,44.7,66,53,2369.1
+Women's Sweaters,Casual Wear,62.43,26,15,936.45
+Men's Shirts,Outerwear,27.97,56,56,1566.32
+Unisex Coats,Casual Wear,189.12,28,19,3593.28
+Men's T-Shirts,Casual Wear,46.93,37,29,1360.97
+Men's T-Shirts,Casual Wear,74.49,69,46,3426.54
+Men's Jeans,Outerwear,42.61,64,42,1789.62
+Men's Sweaters,Formal Wear,183.3,29,27,4949.1
+Unisex Coats,Sportswear,129.5,92,62,8029.0
+Men's Dresses,Outerwear,181.01,20,5,905.05
+Men's Dresses,Outerwear,33.63,36,2,67.26
+Men's Shirts,Outerwear,82.66,67,11,909.26
+Unisex Blazers,Sportswear,96.57,23,14,1351.98
+Unisex Blazers,Sportswear,19.93,81,56,1116.08
+Women's Skirts,Formal Wear,55.68,21,3,167.04
+Unisex Blazers,Outerwear,32.49,15,12,389.88
+Unisex Jeans,Outerwear,18.5,40,30,555.0
+Women's Shirts,Casual Wear,89.63,66,26,2330.38
+Women's Shirts,Sportswear,71.98,87,69,4966.62
+Men's Sweaters,Casual Wear,49.24,77,24,1181.76
+Unisex Sweaters,Casual Wear,139.17,56,24,3340.08
+Men's Shirts,Casual Wear,180.14,82,3,540.42
+Men's Pants,Formal Wear,123.71,76,41,5072.11
+Unisex Shirts,Outerwear,26.25,31,31,813.75
+Women's Coats,Casual Wear,48.9,47,8,391.2
+Women's Pants,Formal Wear,100.34,100,54,5418.36
+Unisex Shirts,Formal Wear,121.56,29,10,1215.6
+Women's Pants,Outerwear,38.66,54,7,270.62
+Women's Pants,Formal Wear,186.26,35,21,3911.46
+Unisex T-Shirts,Sportswear,109.7,99,50,5485.0
+Women's Coats,Sportswear,109.26,75,30,3277.8
+Unisex Jeans,Sportswear,49.25,45,44,2167.0
+Women's Dresses,Sportswear,89.72,24,12,1076.64
+Unisex Coats,Casual Wear,37.28,25,13,484.64
+Unisex Dresses,Sportswear,43.37,27,10,433.7
+Women's Blazers,Formal Wear,127.77,86,45,5749.65
+Men's Blazers,Formal Wear,162.74,75,18,2929.32
+Unisex Dresses,Sportswear,123.3,96,22,2712.6
+Men's Coats,Formal Wear,131.79,40,37,4876.23
+Women's Coats,Casual Wear,110.05,86,24,2641.2
+Women's Coats,Outerwear,56.96,48,11,626.56
+Unisex Jeans,Casual Wear,77.91,34,12,934.92
+Unisex Jeans,Formal Wear,75.01,19,6,450.06
+Women's Jeans,Formal Wear,117.28,38,33,3870.24
+Unisex Sweaters,Casual Wear,72.78,45,39,2838.42
+Women's Skirts,Formal Wear,47.52,94,31,1473.12
+Unisex Sweaters,Casual Wear,22.81,54,20,456.2
+Unisex Shirts,Formal Wear,183.62,18,16,2937.92
+Men's Blazers,Formal Wear,63.81,69,60,3828.6
+Women's Pants,Casual Wear,152.66,92,3,457.98
+Women's Dresses,Formal Wear,119.53,38,31,3705.43
+Unisex Sweaters,Outerwear,161.42,66,58,9362.36
+Men's Sweaters,Casual Wear,89.99,25,4,359.96
+Men's Blazers,Sportswear,172.82,47,40,6912.8
+Women's Sweaters,Outerwear,158.81,25,21,3335.01
+Unisex Coats,Formal Wear,130.16,95,76,9892.16
+Women's Coats,Casual Wear,199.54,63,9,1795.86
+Men's Sweaters,Formal Wear,116.5,92,84,9786.0
+Women's T-Shirts,Outerwear,16.16,36,25,404.0
+Men's Coats,Outerwear,85.6,98,22,1883.2
+Unisex T-Shirts,Casual Wear,138.25,13,7,967.75
+Women's Jackets,Outerwear,38.85,52,49,1903.65
+Unisex Skirts,Outerwear,143.56,66,50,7178.0
+Women's Coats,Formal Wear,59.36,29,29,1721.44
+Unisex Jeans,Formal Wear,35.8,61,3,107.4
+Unisex Dresses,Formal Wear,49.11,15,6,294.66
+Unisex Jackets,Casual Wear,135.01,11,5,675.05
+Unisex Sweaters,Formal Wear,157.21,86,43,6760.03
+Unisex Pants,Formal Wear,66.19,35,17,1125.23
+Unisex Sweaters,Sportswear,30.9,22,6,185.4
+Men's Jeans,Formal Wear,133.98,62,4,535.92
+Men's Coats,Formal Wear,25.25,50,4,101.0
+Unisex T-Shirts,Casual Wear,71.98,30,29,2087.42
+Men's Jackets,Casual Wear,188.12,84,33,6207.96
+Unisex Jeans,Sportswear,96.37,73,59,5685.83
+Men's Jackets,Sportswear,129.87,28,12,1558.44
+Men's T-Shirts,Formal Wear,95.67,20,4,382.68
+Women's Pants,Outerwear,180.01,63,1,180.01
+Women's Skirts,Outerwear,49.36,55,33,1628.88
+Men's Skirts,Casual Wear,96.18,76,56,5386.08
+Unisex Blazers,Casual Wear,11.32,13,10,113.2
+Women's Coats,Sportswear,101.41,30,27,2738.07
+Unisex Skirts,Sportswear,76.62,81,76,5823.12
+Women's Sweaters,Sportswear,185.66,28,14,2599.24
+Unisex Pants,Sportswear,113.42,40,16,1814.72
+Women's Jeans,Outerwear,58.04,87,26,1509.04
+Women's Jeans,Outerwear,14.97,66,27,404.19
+Men's Sweaters,Formal Wear,55.36,78,41,2269.76
+Unisex Coats,Formal Wear,78.88,40,16,1262.08
+Women's Coats,Outerwear,72.06,30,1,72.06
+Women's Dresses,Casual Wear,56.87,50,50,2843.5
+Men's Dresses,Sportswear,133.0,15,0,0.0
+Women's Sweaters,Outerwear,18.96,82,23,436.08
+Unisex Sweaters,Sportswear,94.5,45,25,2362.5
+Unisex Sweaters,Outerwear,99.97,63,60,5998.2
+Women's Sweaters,Formal Wear,51.81,42,39,2020.59
+Men's Shirts,Outerwear,88.25,34,15,1323.75
+Women's Jackets,Outerwear,139.55,89,50,6977.5
+Unisex Dresses,Casual Wear,115.75,93,55,6366.25
+Men's Jeans,Casual Wear,58.38,93,87,5079.06
+Women's Shirts,Casual Wear,70.7,47,44,3110.8
+Women's Shirts,Outerwear,112.9,89,10,1129.0
+Men's Sweaters,Outerwear,136.43,72,52,7094.36
+Women's Jeans,Casual Wear,194.6,36,27,5254.2
+Men's Blazers,Outerwear,35.24,24,12,422.88
+Women's Pants,Formal Wear,23.3,66,66,1537.8
+Women's Blazers,Formal Wear,134.49,33,2,268.98
+Unisex T-Shirts,Formal Wear,173.5,76,51,8848.5
+Men's T-Shirts,Sportswear,24.44,28,9,219.96
+Men's Coats,Casual Wear,24.76,57,49,1213.24
+Women's Skirts,Outerwear,160.15,88,3,480.45
+Men's Jeans,Sportswear,129.2,23,18,2325.6
+Women's T-Shirts,Formal Wear,15.9,20,15,238.5
+Unisex Shirts,Formal Wear,162.1,10,2,324.2
+Men's Dresses,Formal Wear,152.77,37,36,5499.72
+Men's T-Shirts,Formal Wear,194.19,27,11,2136.09
+Women's Jackets,Formal Wear,153.39,70,16,2454.24
+Women's Coats,Sportswear,55.99,63,39,2183.61
+Men's Blazers,Casual Wear,166.48,89,63,10488.24
+Unisex Shirts,Outerwear,68.51,99,33,2260.83
+Men's Jackets,Formal Wear,138.46,24,4,553.84
+Men's Jeans,Casual Wear,86.76,10,2,173.52
+Unisex Shirts,Sportswear,108.88,98,58,6315.04
+Women's Blazers,Casual Wear,76.84,21,14,1075.76
+Unisex Skirts,Casual Wear,193.68,80,55,10652.4
+Unisex Pants,Sportswear,54.72,48,39,2134.08
+Men's Blazers,Casual Wear,53.69,96,94,5046.86
+Unisex Jeans,Casual Wear,63.83,65,14,893.62
+Women's Jeans,Casual Wear,24.76,73,2,49.52
+Men's Sweaters,Casual Wear,195.61,27,8,1564.88
+Men's T-Shirts,Casual Wear,37.43,77,56,2096.08
+Unisex Skirts,Sportswear,184.18,33,7,1289.26
+Women's Dresses,Casual Wear,115.95,82,24,2782.8
+Men's Jackets,Casual Wear,164.11,55,47,7713.17
+Men's T-Shirts,Outerwear,111.07,67,36,3998.52
+Men's Coats,Casual Wear,26.23,43,1,26.23
+Unisex Coats,Formal Wear,145.6,69,37,5387.2
+Women's Skirts,Casual Wear,37.18,29,22,817.96
+Women's Sweaters,Casual Wear,122.4,50,9,1101.6
+Women's Skirts,Casual Wear,137.51,27,27,3712.77
+Women's Blazers,Sportswear,50.64,23,17,860.88
+Men's Sweaters,Outerwear,191.32,32,5,956.6
+Women's T-Shirts,Formal Wear,100.09,66,38,3803.42
+Unisex Coats,Casual Wear,59.73,84,35,2090.55
+Men's Sweaters,Sportswear,175.5,55,36,6318.0
+Men's Pants,Outerwear,178.51,85,9,1606.59
+Unisex Coats,Outerwear,163.56,23,18,2944.08
+Unisex T-Shirts,Sportswear,60.4,97,75,4530.0
+Women's Skirts,Outerwear,153.28,34,28,4291.84
+Women's Pants,Formal Wear,41.66,44,30,1249.8
+Men's Jackets,Outerwear,19.49,73,20,389.8
+Women's Sweaters,Outerwear,91.38,55,29,2650.02
+Men's Sweaters,Sportswear,132.14,24,19,2510.66
+Women's Dresses,Casual Wear,192.52,29,21,4042.92
+Women's Dresses,Sportswear,115.03,20,15,1725.45
+Women's Skirts,Sportswear,19.9,42,1,19.9
+Unisex Dresses,Formal Wear,137.35,71,35,4807.25
+Unisex Coats,Casual Wear,84.45,49,36,3040.2
+Men's Dresses,Sportswear,45.12,31,29,1308.48
+Men's Blazers,Outerwear,82.37,75,36,2965.32
+Unisex Dresses,Outerwear,90.45,98,69,6241.05
+Unisex Skirts,Formal Wear,23.05,35,6,138.3
+Men's Sweaters,Casual Wear,67.76,57,39,2642.64
+Women's Jackets,Outerwear,77.63,67,27,2096.01
+Men's Sweaters,Outerwear,125.37,12,0,0.0
+Women's Dresses,Formal Wear,164.79,95,21,3460.59
+Unisex Dresses,Casual Wear,106.77,68,32,3416.64
+Women's Shirts,Sportswear,34.45,11,9,310.05
+Women's Coats,Casual Wear,159.13,61,53,8433.89
+Unisex Jackets,Casual Wear,53.97,24,9,485.73
+Women's Blazers,Formal Wear,61.8,93,81,5005.8
+Unisex T-Shirts,Outerwear,131.82,89,45,5931.9
+Men's Dresses,Formal Wear,19.94,46,43,857.42
+Unisex Blazers,Casual Wear,129.42,93,82,10612.44
+Unisex Pants,Formal Wear,95.78,82,73,6991.94
+Men's Shirts,Sportswear,71.96,26,8,575.68
+Women's Skirts,Formal Wear,54.08,14,13,703.04
+Unisex Jackets,Formal Wear,14.92,65,48,716.16
+Men's Shirts,Formal Wear,37.85,34,30,1135.5
+Men's Sweaters,Casual Wear,91.33,78,46,4201.18
+Men's Pants,Sportswear,142.47,50,46,6553.62
+Women's Dresses,Outerwear,105.05,76,52,5462.6
+Women's Jackets,Formal Wear,161.72,77,8,1293.76
+Men's Coats,Formal Wear,129.89,62,59,7663.51
+Unisex Jackets,Outerwear,135.25,26,12,1623.0
+Men's Shirts,Casual Wear,56.89,17,13,739.57
+Unisex Blazers,Sportswear,197.43,84,30,5922.9
+Women's T-Shirts,Formal Wear,159.02,99,46,7314.92
+Men's Coats,Outerwear,32.39,69,49,1587.11
+Women's Dresses,Sportswear,158.16,48,2,316.32
+Men's Shirts,Outerwear,135.13,69,12,1621.56
+Unisex Sweaters,Casual Wear,44.5,73,22,979.0
+Men's Dresses,Outerwear,40.88,67,46,1880.48
+Unisex Shirts,Formal Wear,96.48,63,22,2122.56
+Women's Skirts,Formal Wear,58.02,82,28,1624.56
+Women's Coats,Formal Wear,192.68,51,26,5009.68
+Unisex Jeans,Sportswear,88.6,28,11,974.6
+Men's T-Shirts,Outerwear,101.79,98,37,3766.23
+Unisex Blazers,Formal Wear,120.01,46,17,2040.17
+Men's Jeans,Formal Wear,129.72,13,13,1686.36
+Women's Pants,Casual Wear,170.92,91,17,2905.64
+Unisex Coats,Formal Wear,157.51,37,9,1417.59
+Women's Sweaters,Casual Wear,28.5,38,20,570.0
+Women's Dresses,Formal Wear,76.56,69,51,3904.56
+Unisex Jeans,Formal Wear,43.76,89,23,1006.48
+Women's Pants,Casual Wear,97.35,13,2,194.7
+Men's Pants,Casual Wear,123.58,10,0,0.0
+Men's Jeans,Sportswear,188.81,30,26,4909.06
+Men's Skirts,Sportswear,122.76,93,2,245.52
+Men's Skirts,Sportswear,46.7,70,22,1027.4
+Women's Coats,Outerwear,56.28,12,4,225.12
+Unisex Skirts,Formal Wear,175.66,92,65,11417.9
+Unisex Shirts,Casual Wear,100.96,85,53,5350.88
+Women's Jeans,Casual Wear,168.58,64,38,6406.04
+Unisex Skirts,Formal Wear,64.25,70,29,1863.25
+Unisex Blazers,Formal Wear,83.61,76,39,3260.79
+Men's T-Shirts,Casual Wear,107.18,35,35,3751.3
+Women's Jackets,Casual Wear,143.7,57,40,5748.0
+Men's Jackets,Sportswear,35.64,43,29,1033.56
+Unisex Coats,Casual Wear,28.69,18,2,57.38
+Unisex Jeans,Sportswear,123.33,28,5,616.65
+Unisex T-Shirts,Outerwear,118.08,15,7,826.56
+Unisex Jeans,Outerwear,108.05,57,50,5402.5
+Men's T-Shirts,Sportswear,141.79,23,11,1559.69
+Men's Blazers,Sportswear,162.43,44,13,2111.59
+Unisex Coats,Outerwear,77.36,97,40,3094.4
+Women's T-Shirts,Outerwear,129.28,11,0,0.0
+Women's Skirts,Formal Wear,199.8,70,13,2597.4
+Men's Sweaters,Outerwear,84.62,14,9,761.58
+Men's Jeans,Sportswear,119.95,90,34,4078.3
+Men's Sweaters,Casual Wear,51.6,35,11,567.6
+Unisex Blazers,Sportswear,38.36,16,5,191.8
+Women's Blazers,Outerwear,149.71,36,32,4790.72
+Unisex Shirts,Sportswear,34.08,79,25,852.0
+Women's Blazers,Formal Wear,188.31,41,7,1318.17
+Women's Shirts,Casual Wear,132.71,28,4,530.84
+Women's Skirts,Formal Wear,135.16,66,40,5406.4
+Women's Jackets,Outerwear,79.08,46,38,3005.04
+Unisex Skirts,Formal Wear,118.03,96,10,1180.3
+Men's Dresses,Sportswear,127.73,14,8,1021.84
+Men's Pants,Sportswear,60.61,99,94,5697.34
+Women's T-Shirts,Outerwear,186.14,50,45,8376.3
+Women's Shirts,Formal Wear,178.71,21,16,2859.36
+Men's Pants,Sportswear,195.35,37,33,6446.55
+Women's T-Shirts,Sportswear,58.79,10,6,352.74
+Men's Coats,Sportswear,129.14,26,10,1291.4
+Women's Coats,Sportswear,163.39,34,9,1470.51
+Women's Jeans,Sportswear,103.69,62,49,5080.81
+Women's Coats,Formal Wear,128.99,40,23,2966.77
+Unisex Blazers,Sportswear,98.11,69,67,6573.37
+Women's Jackets,Casual Wear,42.81,20,20,856.2
+Women's T-Shirts,Sportswear,132.06,67,4,528.24
+Women's Blazers,Casual Wear,96.74,28,27,2611.98
+Men's Blazers,Sportswear,157.03,40,5,785.15
+Women's Coats,Sportswear,163.44,28,10,1634.4
+Men's Sweaters,Casual Wear,38.3,59,42,1608.6
+Women's Blazers,Casual Wear,24.41,16,2,48.82
+Men's Jackets,Outerwear,133.41,10,0,0.0

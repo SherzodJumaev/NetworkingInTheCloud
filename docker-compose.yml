@@ -1,0 +1,65 @@
+services:
+    wholesale_clothing_crm:
+        image: ${DOCKER_REGISTRY-}wholesaleclothingcrm
+        build:
+            context: .
+            dockerfile: src/Wholesale_Clothing_CRM/Dockerfile
+        restart: always
+        container_name: wholesale_clothing_crm
+        ports:
+            - "7180:8080"
+            - "7181:8081"
+        environment:
+          - ConnectionStrings__DefaultConnection=Server=wholesale_clothing_crm_db,1433;Database=PatientRecoveryDB_Patients;User Id=sa;Password=Y0urP@ssw0rd!23;Trust Server Certificate=True;
+        depends_on:
+            wholesale_clothing_crm_db:
+              condition: service_healthy
+        networks:
+            - networking_in_the_cloud
+      
+    wholesale_clothing_crm_db:
+        image: mcr.microsoft.com/mssql/server:2022-latest
+        container_name: wholesale_clothing_crm_db
+        restart: always
+        environment:
+            - ACCEPT_EULA=Y
+            - SA_PASSWORD=Y0urP@ssw0rd!23
+            - MSSQL_PID=Express
+        ports:
+            - "1477:1433"
+        volumes:
+            - sqlserver_data:/var/opt/mssql
+        networks:
+            - networking_in_the_cloud
+        healthcheck:
+            test:
+                [
+                    "CMD-SHELL",
+                    "timeout 1 bash -c '</dev/tcp/localhost/1433' || exit 1",
+                ]
+            interval: 10s
+            retries: 10
+            start_period: 30s
+            timeout: 5s
+            
+    web-frontend:
+        image: nginx:alpine
+        container_name: wholesale_clothing_crm_web
+        ports:
+            - "8082:8080"
+            - "8083:8081"
+        restart: always
+        volumes:
+            - ../src/Web:/usr/share/nginx/html
+            - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+        depends_on:
+            - wholesale_clothing_crm
+        networks:
+            - networking_in_the_cloud
+
+networks:
+    networking_in_the_cloud:
+        driver: bridge
+
+volumes:
+    sqlserver_data:
