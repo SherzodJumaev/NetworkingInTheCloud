@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wholesale_Clothing_CRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e02b8102c41ce69d0d8b2630cc59e14fbd4e7f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a432c884a3c813c9f91bed5057bf24ff89b709d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wholesale_Clothing_CRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wholesale_Clothing_CRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
